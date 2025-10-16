@@ -12,6 +12,9 @@ Part 4. Improve Your Plots - You will provide and receive feedback to/from your 
 
 
 survey.csv: This was the given CSV file collected by the IT Department, it contains all of the answers from the google form
+
 clean_survey.csv: This is the cleaned CSV file after all the redudant columns have been removed, along with some tidying pertaining to naming conventions
+
 data_exploration_and_cleaning_Veer_Mangat.ipynb: This is the notebook submitted for Part 2, it contains the documentation and steps taken to clean the survey.csv
+
 data_analysis_and_visualization.ipynb: This is the notebook submitted for Part 3, it contains the documentation and steps taken to create graphs to help visually answer my 5 questions.
